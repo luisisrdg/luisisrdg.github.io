@@ -947,7 +947,7 @@ a.btn-blg {
 	color:#666;
 }
 a.btn-blg:hover {
-	color:#e73131;
+	color:#31e7b0;
 	-webkit-transition-duration: 0.3s;
 	-moz-transition-duration: 0.3s;
 	-ms-transition-duration: 0.3s;
@@ -1020,7 +1020,7 @@ a.btn-blg:hover {
 	color:#666;
 }
 .contact-sec-1 ul li a:hover {
-	color:#e73131;
+	color:#31e7b0;
 	-webkit-transition-duration: 0.3s;
 	-moz-transition-duration: 0.3s;
 	-ms-transition-duration: 0.3s;
@@ -1115,7 +1115,7 @@ textarea.form-control {
 
 /*Full-screen-menu-stylesheet-include-here*/
 .top-animate {
-  background: #e73131 !important;
+  background: #31e7b0 !important;
   top: 13px !important;
   -webkit-transform: rotate(45deg);
   /* Chrome, Safari, Opera */
@@ -1149,7 +1149,7 @@ textarea.form-control {
   top: 21px;
 }
 .menui {
-  background: #e73131;
+  background: #31e7b0;
   transition: 0.6s ease;
   transition-timing-function: cubic-bezier(0.75, 0, 0.29, 1.01);
   margin-top: 10px;
@@ -1292,7 +1292,7 @@ a.btn-learn {
 	top: 40px;
 }
 a.btn-learn:hover {
-	background:#e73131;
+	background:#31e7b0;
 	color:#fff;
 	transition:all 0.5s;
 	-moz-transition: all 0.5s;
@@ -1356,3 +1356,15 @@ color:#fff;
 }
 
 /*Basic-Stylesheets-End-Here*/
+
+.nameTitle{
+	font-size: 30px;
+	/* font-weight: bold; */
+	font-weight: 50px;
+	color: #31e7b0;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+.scroll:hover{
+	color: #31e7b0;
+}
